@@ -1,0 +1,15 @@
+10.0061 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1172e5710>, multiSample=False, name='window1', numSamples=2, pos=[-720, -450], screen=0, size=array([2880, 1800]), stereo=False, units=u'norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+10.0062 	EXP 	window1: recordFrameIntervals = False
+10.1712 	EXP 	window1: recordFrameIntervals = True
+10.3548 	EXP 	window1: recordFrameIntervals = False
+10.5569 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+10.5659 	EXP 	Created leftStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='leftStim', opacity=1.0, ori=0, pos=array([-0.5,  0. ]), rgb=array([255., 255., 255.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+10.5735 	EXP 	Created rightStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='rightStim', opacity=1.0, ori=0, pos=array([0.5, 0. ]), rgb=array([255., 255., 255.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+10.6865 	EXP 	Created ITI = ImageStim(autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='/Users/mridul/Downloads/fixation.png', interpolate=True, mask=None, maskParams=None, name='ITI', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units=u'norm', win=Window(...))
+10.6918 	EXP 	Created fixation = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='fixation', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='+', units=u'norm', win=Window(...), wrapWidth=1)
+10.7050 	EXP 	text: autoDraw = True
+27.9276 	DATA 	Keypress: escape
+27.9337 	EXP 	Imported experiment.csv as conditions, 4 conditions, 2 params
+27.9340 	EXP 	Created sequence: sequential, trialTypes=4, nReps=3, seed=None
+27.9344 	EXP 	New trial (rep=0, index=0): OrderedDict([(u'condition', u'incongruent'), (u'stim', u'X')])
+28.2020 	EXP 	window1: mouseVisible = True

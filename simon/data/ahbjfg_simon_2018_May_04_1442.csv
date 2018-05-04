@@ -1,0 +1,6 @@
+condition,stim,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,response.keys,response.corr,session,participant,frameRate,expName,counterbalance,date,
+incongruent,X,0,0,0,0,None,0,001,ahbjfg,59.97723489810043,simon,0,2018_May_04_1442,
+congruent,X,0,1,1,1,None,0,001,ahbjfg,59.97723489810043,simon,0,2018_May_04_1442,
+incongruent,O,0,2,2,2,None,0,001,ahbjfg,59.97723489810043,simon,0,2018_May_04_1442,
+congruent,O,0,3,3,3,None,0,001,ahbjfg,59.97723489810043,simon,0,2018_May_04_1442,
+incongruent,X,1,0,4,0,None,0,001,ahbjfg,59.97723489810043,simon,0,2018_May_04_1442,

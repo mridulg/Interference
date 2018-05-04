@@ -1,0 +1,7 @@
+word,color,congruent,corrAns
+red,red,1,left
+red,green,0,down
+green,green,1,down
+green,blue,0,right
+blue,blue,1,right
+blue,red,0,left

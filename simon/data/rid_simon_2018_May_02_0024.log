@@ -1,0 +1,8 @@
+6.3179 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+6.9407 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1169ee550>, multiSample=False, name='window1', numSamples=2, pos=[-720, -450], screen=0, size=array([2880, 1800]), stereo=False, units=u'norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+6.9407 	EXP 	window1: recordFrameIntervals = False
+7.1074 	EXP 	window1: recordFrameIntervals = True
+7.2914 	EXP 	window1: recordFrameIntervals = False
+7.4728 	EXP 	Created fixation = ImageStim(autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=u'/Users/mridul/Downloads/fixation.png', interpolate=True, mask=None, maskParams=None, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units=u'norm', win=Window(...))
+7.4905 	EXP 	fixation: autoDraw = True
+8.7466 	EXP 	window1: mouseVisible = True
